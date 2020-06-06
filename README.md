@@ -3,4 +3,5 @@ geekbang里的《数据分析实战45讲》中的可视化实战内容，对着课程搓了一下代码悟了一哈
 <li>musiccloud2.py 是歌单的歌曲词云
 <li>study1.py 是课程里的词云使用案例
 <li>test1.py 是我测试如何从网易云的歌单API拿到的json中得到歌曲的name 和 id
+<li>SimHei.ttf 是雅黑字体文件
 <li>其余的图片都是生成的词云
